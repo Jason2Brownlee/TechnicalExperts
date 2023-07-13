@@ -10,9 +10,9 @@ You can jump directly to [all essays](writing/) or [all prompts](prompts/).
 
 ## Essays
 
-* [Stigmergy](writing/stigmergy.txt)
-* [Antifragile](writing/antifragile.txt)
-* [Red Queen Hypothesis](writing/red_queen.txt)
-* [Central Tolerance (negative selection)](writing/negative_selection.txt)
+* [Stigmergy](writing/stigmergy.md)
+* [Antifragile](writing/antifragile.md)
+* [Red Queen Hypothesis](writing/red_queen.md)
+* [Central Tolerance (negative selection)](writing/negative_selection.md)
 
 
