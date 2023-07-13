@@ -12,7 +12,6 @@ negative selection
 Todo
 ----
 
-
 speciation
 ecology
 openendedness
