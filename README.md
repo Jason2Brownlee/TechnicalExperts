@@ -6,7 +6,9 @@ The goal is to learn a little bit more about specific technical topics (beyond W
 
 For each technical topic, ChatGPT is prompted to take on persona of an expert in the topic who is then interviewed for a general audience. The results are collected and turned into an essay in markdown format.
 
-See the [interview prompt](prompts/interview_template.md) and a list of [candidate topics](prompts/topics.md). You can jump directly to [all essays](writing/) or [all prompts](prompts/).
+See the [interview prompt](prompts/interview_template.md) and a list of [candidate topics](prompts/topics.md).
+
+You can jump directly to [all essays](writing/) or [all prompts](prompts/).
 
 ## Essays
 
