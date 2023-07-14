@@ -9,6 +9,7 @@ Done
 * stigmergy
 * negative selection
 * openendedness
+* computability theory
 
 Candidates
 ----
@@ -25,18 +26,19 @@ Candidates
 * particle swarm optimization
 * self organizing maps
 * peter principle
-* computability theory
 * dunning-kruger effect
 * long now
 * compounding
 * falsification
-* inductionism
+* inductionism (philosophy)
 * self-organized criticality
 * bicameral mentality
 * jensen's inequality
 * convergence (complex systems)
 * emergence (complex systems)
 * the adjacent possible
-* danger theory
+* danger theory (immunology)
+* transformer (neural networks)
+
 
 

@@ -10,10 +10,11 @@ See the [interview prompt](prompts/interview_template.md) and a list of [candida
 
 You can jump directly to [all essays](writing/) or [all prompts](prompts/).
 
-## Essays
+## Interviews
 
 * [Stigmergy](writing/stigmergy.md)
 * [Antifragile](writing/antifragile.md)
 * [Red Queen Hypothesis](writing/red_queen.md)
 * [Central Tolerance (negative selection)](writing/negative_selection.md)
 * [Openendedness (evolutionary systems)](writing/openendedness.md)
+* [Computability Theory](writing/computability_theory.md)
