@@ -16,5 +16,4 @@ You can jump directly to [all essays](writing/) or [all prompts](prompts/).
 * [Antifragile](writing/antifragile.md)
 * [Red Queen Hypothesis](writing/red_queen.md)
 * [Central Tolerance (negative selection)](writing/negative_selection.md)
-
-
+* [Openendedness (evolutionary systems)](writing/openendedness.md)

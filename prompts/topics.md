@@ -8,13 +8,13 @@ Done
 * red queen
 * stigmergy
 * negative selection
+* openendedness
 
-Todo
+Candidates
 ----
 
 * speciation
 * ecology
-* openendedness
 * strange loop
 * complex adaptive systems
 * coevolution
@@ -27,4 +27,16 @@ Todo
 * peter principle
 * computability theory
 * dunning-kruger effect
+* long now
+* compounding
+* falsification
+* inductionism
+* self-organized criticality
+* bicameral mentality
+* jensen's inequality
+* convergence (complex systems)
+* emergence (complex systems)
+* the adjacent possible
+* danger theory
+
 
