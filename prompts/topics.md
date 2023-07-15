@@ -10,6 +10,7 @@ Done
 * negative selection
 * openendedness
 * computability theory
+* the adjacent possible
 
 Candidates
 ----
@@ -39,6 +40,9 @@ Candidates
 * the adjacent possible
 * danger theory (immunology)
 * transformer (neural networks)
-
-
+* combinatorial creativity
+* long tail theory
+* exploration-exploitation tradeoff
+* fitness landscape
+* barbell strategy
 
