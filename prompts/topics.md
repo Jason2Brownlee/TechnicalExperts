@@ -11,6 +11,7 @@ Done
 * openendedness
 * computability theory
 * the adjacent possible
+* self-organized criticality
 
 Candidates
 ----
@@ -32,12 +33,10 @@ Candidates
 * compounding
 * falsification
 * inductionism (philosophy)
-* self-organized criticality
 * bicameral mentality
 * jensen's inequality
 * convergence (complex systems)
 * emergence (complex systems)
-* the adjacent possible
 * danger theory (immunology)
 * transformer (neural networks)
 * combinatorial creativity
@@ -45,4 +44,7 @@ Candidates
 * exploration-exploitation tradeoff
 * fitness landscape
 * barbell strategy
+* overton window
+
+
 
