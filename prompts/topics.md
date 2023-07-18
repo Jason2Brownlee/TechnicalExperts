@@ -12,6 +12,7 @@ Done
 * computability theory
 * the adjacent possible
 * self-organized criticality
+* overton window
 
 Candidates
 ----
@@ -44,7 +45,9 @@ Candidates
 * exploration-exploitation tradeoff
 * fitness landscape
 * barbell strategy
-* overton window
+* philosophy of science
+* paradigm shift
+
 
 
 
