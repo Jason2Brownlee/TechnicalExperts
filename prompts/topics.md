@@ -13,6 +13,7 @@ Done
 * the adjacent possible
 * self-organized criticality
 * overton window
+* exploration-exploitation tradeoff
 
 Candidates
 ----
@@ -42,11 +43,15 @@ Candidates
 * transformer (neural networks)
 * combinatorial creativity
 * long tail theory
-* exploration-exploitation tradeoff
 * fitness landscape
 * barbell strategy
 * philosophy of science
 * paradigm shift
+* no free lunch theorem
+* consilience
+* satisficing
+* novelty search
+
 
 
 
