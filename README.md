@@ -24,3 +24,5 @@ You can jump directly to [all essays](writing/) or [all prompts](prompts/).
 * [Self-Organized Criticality](writing/self_organized_criticality.md)
 * [Overton Window](writing/overton_window.md)
 * [Exploration-Exploitation Tradeoff](writing/exploration_exploitation_tradeoff.md)
+* [Consilience](writing/consilience.md)
+

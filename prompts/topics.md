@@ -14,6 +14,7 @@ Done
 * self-organized criticality
 * overton window
 * exploration-exploitation tradeoff
+* consilience
 
 Candidates
 ----
@@ -48,7 +49,6 @@ Candidates
 * philosophy of science
 * paradigm shift
 * no free lunch theorem
-* consilience
 * satisficing
 * novelty search
 

@@ -82,5 +82,5 @@ Conclusion
 
 ### What final thoughts or insights about [TOPIC] would you like to leave the readers with?
 
-### Are there any questions i should have asked about [TOPIC], but didn't?
+### Are there any questions I should have asked about [TOPIC], but didn't?
 
