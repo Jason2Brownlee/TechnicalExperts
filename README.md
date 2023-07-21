@@ -12,6 +12,8 @@ See the [interview prompt](prompts/interview_template.md) and a list of [candida
 
 You can jump directly to [all essays](writing/) or [all prompts](prompts/).
 
+![Interviews With Technical Experts](InterviewsWithTechnicalExperts.png)
+
 ## Interviews
 
 * [Stigmergy](writing/stigmergy.md)
