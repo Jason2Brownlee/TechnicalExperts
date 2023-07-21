@@ -26,5 +26,5 @@ You can jump directly to [all essays](writing/) or [all prompts](prompts/).
 * [Exploration-Exploitation Tradeoff](writing/exploration_exploitation_tradeoff.md)
 * [Consilience](writing/consilience.md)
 * [Adaptive Radiation](writing/adaptive_radiation.md)
-
+* [Lindy Effect](writing/lindy_effect.md)
 

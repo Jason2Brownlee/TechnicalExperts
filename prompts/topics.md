@@ -16,6 +16,7 @@ Done
 * exploration-exploitation tradeoff
 * consilience
 * adaptive radiation
+* lindy effect
 
 Candidates
 ----
