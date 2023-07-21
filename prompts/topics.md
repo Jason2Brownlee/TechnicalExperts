@@ -15,6 +15,7 @@ Done
 * overton window
 * exploration-exploitation tradeoff
 * consilience
+* adaptive radiation
 
 Candidates
 ----
@@ -51,6 +52,9 @@ Candidates
 * no free lunch theorem
 * satisficing
 * novelty search
+* convergent evolution
+* introgression
+
 
 
 

@@ -25,4 +25,6 @@ You can jump directly to [all essays](writing/) or [all prompts](prompts/).
 * [Overton Window](writing/overton_window.md)
 * [Exploration-Exploitation Tradeoff](writing/exploration_exploitation_tradeoff.md)
 * [Consilience](writing/consilience.md)
+* [Adaptive Radiation](writing/adaptive_radiation.md)
+
 
