@@ -17,6 +17,7 @@ Done
 * consilience
 * adaptive radiation
 * lindy effect
+* novelty search
 
 Candidates
 ----
@@ -52,11 +53,11 @@ Candidates
 * paradigm shift
 * no free lunch theorem
 * satisficing
-* novelty search
 * convergent evolution
 * introgression
-
-
+* ergodicity
+* strange attractor (complexity)
+* quality diversity algorithms
 
 
 

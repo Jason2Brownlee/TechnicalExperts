@@ -82,5 +82,15 @@ Conclusion
 
 ### What final thoughts or insights about [TOPIC] would you like to leave the readers with?
 
+
+
+Extensions
+-------------
+
+### What is a one line summary of [TOPIC]?
+
 ### Are there any questions I should have asked about [TOPIC], but didn't?
+
+### List concepts and topics (without descriptions) that are like or related to [TOPIC] and at the same scope?
+
 
