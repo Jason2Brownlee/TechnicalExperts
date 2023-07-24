@@ -30,4 +30,4 @@ This project is an extension from ideas raised in the [Bad, Bad, Bad, Good](http
 * [Adaptive Radiation](writing/adaptive_radiation.md)
 * [Lindy Effect](writing/lindy_effect.md)
 * [Novelty Search](writing/novelty_search.md)
-* [Ergodicity](ergodicity.md)
+* [Ergodicity](writing/ergodicity.md)
