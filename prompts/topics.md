@@ -18,6 +18,8 @@ Done
 * adaptive radiation
 * lindy effect
 * novelty search
+* ergodicity
+
 
 Candidates
 ----
@@ -55,7 +57,6 @@ Candidates
 * satisficing
 * convergent evolution
 * introgression
-* ergodicity
 * strange attractor (complexity)
 * quality diversity algorithms
 
