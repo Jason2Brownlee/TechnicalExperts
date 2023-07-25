@@ -31,3 +31,5 @@ This project is an extension from ideas raised in the [Bad, Bad, Bad, Good](http
 * [Lindy Effect](writing/lindy_effect.md)
 * [Novelty Search](writing/novelty_search.md)
 * [Ergodicity](writing/ergodicity.md)
+* [Speciation](writing/speciation.md)
+

@@ -19,12 +19,11 @@ Done
 * lindy effect
 * novelty search
 * ergodicity
-
+* speciation
 
 Candidates
 ----
 
-* speciation
 * ecology
 * strange loop
 * complex adaptive systems
@@ -59,7 +58,7 @@ Candidates
 * introgression
 * strange attractor (complexity)
 * quality diversity algorithms
-
+* ecological niche
 
 
 
