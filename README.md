@@ -32,4 +32,4 @@ This project is an extension from ideas raised in the [Bad, Bad, Bad, Good](http
 * [Novelty Search](writing/novelty_search.md)
 * [Ergodicity](writing/ergodicity.md)
 * [Speciation](writing/speciation.md)
-
+* [Satisficing](writing/satisficing.md)

@@ -20,6 +20,7 @@ Done
 * novelty search
 * ergodicity
 * speciation
+* satisficing
 
 Candidates
 ----
@@ -53,12 +54,13 @@ Candidates
 * philosophy of science
 * paradigm shift
 * no free lunch theorem
-* satisficing
 * convergent evolution
 * introgression
 * strange attractor (complexity)
 * quality diversity algorithms
 * ecological niche
+* computational intelligence
+* metaheuristics
 
 
 

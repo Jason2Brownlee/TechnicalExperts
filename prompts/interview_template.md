@@ -89,7 +89,7 @@ Extensions
 
 ### What is a one line summary of [TOPIC]?
 
-### Are there any questions I should have asked about [TOPIC], but didn't?
+### List questions I should have asked about [TOPIC], but didn't?
 
 ### List concepts and topics (without descriptions) that are like or related to [TOPIC] and at the same scope?
 
