@@ -21,6 +21,7 @@ Done
 * ergodicity
 * speciation
 * satisficing
+* peter principle
 
 Candidates
 ----
@@ -35,7 +36,6 @@ Candidates
 * genetic algorithms
 * particle swarm optimization
 * self organizing maps
-* peter principle
 * dunning-kruger effect
 * long now
 * compounding
@@ -61,6 +61,6 @@ Candidates
 * ecological niche
 * computational intelligence
 * metaheuristics
-
+* gervais principle
 
 

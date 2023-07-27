@@ -33,3 +33,6 @@ This project is an extension from ideas raised in the [Bad, Bad, Bad, Good](http
 * [Ergodicity](writing/ergodicity.md)
 * [Speciation](writing/speciation.md)
 * [Satisficing](writing/satisficing.md)
+* [Peter Principle](writing/peter_principle.md)
+
+
