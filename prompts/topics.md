@@ -22,12 +22,12 @@ Done
 * speciation
 * satisficing
 * peter principle
+* strange loop
 
 Candidates
 ----
 
 * ecology
-* strange loop
 * complex adaptive systems
 * coevolution
 * complex networks
@@ -62,5 +62,9 @@ Candidates
 * computational intelligence
 * metaheuristics
 * gervais principle
+* cybernetics
+* complexity science
+* computational irreducibility
+* incompleteness theorem
 
 
