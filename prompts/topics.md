@@ -23,6 +23,7 @@ Done
 * satisficing
 * peter principle
 * strange loop
+* computational irreducibility
 
 Candidates
 ----
@@ -64,7 +65,6 @@ Candidates
 * gervais principle
 * cybernetics
 * complexity science
-* computational irreducibility
 * incompleteness theorem
 
 
