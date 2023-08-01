@@ -36,4 +36,4 @@ This project is an extension from ideas raised in the [Bad, Bad, Bad, Good](http
 * [Peter Principle](writing/peter_principle.md)
 * [Strange Loop](writing/strange_loop.md)
 * [Computational Irreducibility](writing/computational_irreducibility.md)
-
+* [Barbell Strategy](writing/barbell_strategy.md)

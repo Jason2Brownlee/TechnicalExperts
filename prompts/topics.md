@@ -24,6 +24,7 @@ Done
 * peter principle
 * strange loop
 * computational irreducibility
+* barbell strategy
 
 Candidates
 ----
