@@ -25,6 +25,7 @@ Done
 * strange loop
 * computational irreducibility
 * barbell strategy
+* falsification
 
 Candidates
 ----
@@ -41,7 +42,6 @@ Candidates
 * dunning-kruger effect
 * long now
 * compounding
-* falsification
 * inductionism (philosophy)
 * bicameral mentality
 * jensen's inequality
