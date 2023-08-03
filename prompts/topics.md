@@ -26,6 +26,7 @@ Done
 * computational irreducibility
 * barbell strategy
 * falsification
+* dunning-kruger effect
 
 Candidates
 ----
@@ -39,7 +40,6 @@ Candidates
 * genetic algorithms
 * particle swarm optimization
 * self organizing maps
-* dunning-kruger effect
 * long now
 * compounding
 * inductionism (philosophy)
@@ -67,5 +67,5 @@ Candidates
 * cybernetics
 * complexity science
 * incompleteness theorem
-
+* constructor theory
 
