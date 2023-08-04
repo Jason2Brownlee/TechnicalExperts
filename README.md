@@ -39,3 +39,4 @@ This project is an extension from ideas raised in the [Bad, Bad, Bad, Good](http
 * [Barbell Strategy](writing/barbell_strategy.md)
 * [Falsification](writing/falsification.md)
 * [Dunning-Kruger Effect](writing/dunning_kruger_effect.md)
+* [Cybernetics](writing/cybernetics.md)

@@ -27,6 +27,7 @@ Done
 * barbell strategy
 * falsification
 * dunning-kruger effect
+* cybernetics
 
 Candidates
 ----
@@ -64,7 +65,6 @@ Candidates
 * computational intelligence
 * metaheuristics
 * gervais principle
-* cybernetics
 * complexity science
 * incompleteness theorem
 * constructor theory
